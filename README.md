@@ -31,5 +31,5 @@ REDIS_URL="redis://localhost:6379"
 11. Start the example app by running `yarn dev` and go to `http://localhost:4321`.
 12. In the Google Cloud Console "API & Services" "Credentials" `https://console.cloud.google.com/apis/credentials` open web project setup in step 1 and add `http://localhost:5555/api/v2/platform/gcal/oauth/save` to the authorized redirect URIs.
 
-<img width="720" alt="Screenshot 2024-03-21 at 09 42 36" src="https://github.com/calcom/atoms-examples/assets/42170848/82ce4d7a-fc08-489a-ab06-a8eb41a68a2a">
+<img width="1000" alt="Screenshot 2024-03-21 at 09 42 36" src="https://github.com/calcom/atoms-examples/assets/42170848/82ce4d7a-fc08-489a-ab06-a8eb41a68a2a">
 
