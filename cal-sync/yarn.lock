@@ -19,10 +19,10 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
-"@calcom/atoms@1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@calcom/atoms/-/atoms-1.0.4.tgz#7e809a3433c8d384d51ce141d41b808ee310a33c"
-  integrity sha512-vxUn6+gLMsvwcuHRncfWVfojXazbvGCMc5MS3mSm93EYGrrJ7aTahax+qrmsizK0kzR6Jr+lD7hBv/Tnxt0H7A==
+"@calcom/atoms@1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@calcom/atoms/-/atoms-1.0.5.tgz#4679a0272ad734d71ee117b23329ca35fc6e7500"
+  integrity sha512-5HKziRxsWnmy/MrMeR3PzfSwy3Vf4I0MeB/cp6eivtIcu5qGxFYNOU0XMU8raJT9QcYLF0oEVxGMV4EGx6OPkA==
   dependencies:
     "@radix-ui/react-dialog" "^1.0.4"
     "@radix-ui/react-slot" "^1.0.2"

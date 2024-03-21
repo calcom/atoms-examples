@@ -4,7 +4,7 @@ import { Poppins } from "next/font/google";
 import { useEffect, useState } from "react";
 
 import { CalProvider } from "@calcom/atoms";
-import "@calcom/atoms/styles.css";
+import "@calcom/atoms/globals.min.css";
 
 const poppins = Poppins({ subsets: ["latin"], weight: ["400", "800"] });
 
